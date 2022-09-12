@@ -1,0 +1,9 @@
+{
+  "id": "1111",
+  "photo": "../image/用户.png",
+  "name": "user",
+  "username": "user",
+  "gender": 0,
+  "birthday": "2022-02-19",
+  "intro": null
+}

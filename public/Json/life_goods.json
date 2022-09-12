@@ -1,0 +1,96 @@
+{
+    "title":"合作共建",
+    "content":
+    [
+        {
+            "goodsItem":[
+                {
+                    "id": "9",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                },
+                {
+                    "id": "10",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                }
+            ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "7",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                },
+                {
+                    "id": "8",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                }
+            ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "9",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                },
+                {
+                    "id": "10",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                }
+            ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "9",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                },
+                {
+                    "id": "10",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                }
+            ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "9",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                },
+                {
+                    "id": "10",
+                    "img":"../image/goods/goods5.webp",
+                    "department":"科学技术部",
+                    "address":"江西 井冈山市"
+            
+                }
+            ]
+        }
+    ]
+}

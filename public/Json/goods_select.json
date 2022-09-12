@@ -1,0 +1,77 @@
+{
+    "title":"好物优选",
+    "content":
+    [
+        {
+            "goodsItem":[
+                {
+                    "id": "1",
+                    "img":"../image/goods/goods_s1.webp",
+                    "goodsName":"河北省 武强县 日本豆130g/袋 7袋包邮",
+                    "price":19.9
+            
+                },
+                {
+                    "id": "2",
+                    "img":"../image/goods/goods_s2.webp",
+                    "goodsName":"河北省临城县绿岭核桃原果500g",
+                    "price":88
+            
+                }
+            ]
+        },
+        {"goodsItem":[
+            {
+                "id": "3",
+                "img":"../image/goods/goods_s3.webp",
+                "goodsName":"河北省 武强县 老周家海苔花生 130g/袋 7袋起售 包邮到家",
+                "price":30
+        
+            },
+            {
+                "id": "4",
+                "img":"../image/goods/goods_s4.webp",
+                "goodsName":"河南省散养土鸡蛋 130g/袋 7袋起售 包邮到家",
+                "price":29.5
+        
+            }
+        ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "5",
+                    "img":"../image/goods/goods_s6.webp",
+                    "goodsName":"野生葛根面",
+                    "price":16.0
+            
+                },
+                {
+                    "id": "6",
+                    "img":"../image/goods/goods_s6.webp",
+                    "goodsName":"天方硒茶",
+                    "price":85
+            
+                }
+            ]
+        },
+        {
+            "goodsItem":[
+                {
+                    "id": "7",
+                    "img":"../image/goods/goods_s7.webp",
+                    "goodsName":"野生核桃油",
+                    "price":19
+            
+                },
+                {
+                    "id": "8",
+                    "img":"../image/goods/goods_s8.webp",
+                    "goodsName":"黄山毛尖",
+                    "price":69
+            
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title":"热卖榜",
+    "content":
+    [
+        {
+            "id": "1",
+            "img":"../image/goods/goods1.webp",
+            "goodsName":"长粒香",
+            "price":19.9
+    
+        },
+        {
+            "id": "2",
+            "img":"../image/goods/goods2.webp",
+            "goodsName":"采花毛尖",
+            "price":88
+    
+        },
+        {
+            "id": "3",
+            "img":"../image/goods/goods3.webp",
+            "goodsName":"走马翠毫",
+            "price":30
+    
+        },
+        {
+            "id": "4",
+            "img":"../image/goods/goods4.webp",
+            "goodsName":"果粒麦片",
+            "price":29.5
+    
+        },
+        {
+            "id": "5",
+            "img":"../image/goods/goods5.webp",
+            "goodsName":"野生葛根面",
+            "price":16.0
+    
+        },
+        {
+            "id": "6",
+            "img":"../image/goods/goods6.webp",
+            "goodsName":"天方硒茶",
+            "price":85
+    
+        },
+        {
+            "id": "7",
+            "img":"../image/goods/goods7.webp",
+            "goodsName":"野生核桃油",
+            "price":19
+    
+        },
+        {
+            "id": "8",
+            "img":"../image/goods/goods8.webp",
+            "goodsName":"黄山毛尖",
+            "price":69
+    
+        }
+    ]
+}

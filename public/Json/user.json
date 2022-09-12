@@ -1,0 +1,13 @@
+{
+  "data": {
+      "id": "1111",
+      "name": "user",
+      "photo": "../image/用户.png",
+      "intro": null,
+      "art_count": 5,
+      "follow_count": 0,
+      "fans_count": 0,
+      "like_count": "-"
+  },
+  "message": "OK"
+}
