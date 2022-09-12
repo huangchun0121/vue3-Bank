@@ -1,0 +1,48 @@
+{
+  "name": "vue3-Bank",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "cropperjs": "^1.5.9",
+    "dayjs": "^1.9.6",
+    "json-bigint": "^1.0.0",
+    "loadsh": "0.0.4",
+    "mockjs": "^1.1.0",
+    "socket.io-client": "^3.0.4",
+    "vant": "^3.0.0-beta.10",
+    "vue": "^3.0.0",
+    "vue-axios": "^3.2.0",
+    "vue-router": "^4.0.0-0",
+    "vue-video-player": "^5.0.2",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^7.0.0-0",
+    "less": "^3.13.1",
+    "less-loader": "^5.0.0",
+    "postcss-pxtorem": "^5.1.1",
+    "style-resources-loader": "^1.4.1",
+    "vue-cli-plugin-style-resources-loader": "~0.1.5"
+  }
+}
